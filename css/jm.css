@@ -5,3 +5,8 @@
 html{
 	background-color: black;
 }
+
+.pad{
+	height: 100%;
+	width: 100%;
+}
